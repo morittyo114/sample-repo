@@ -1,5 +1,2 @@
-# sample-repo
-更新!!
-
-# さらにRADMEを更新するよ
-わっしょい
+# Purpose of this branch
+This branch is used for traning of Github
